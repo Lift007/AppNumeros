@@ -1,0 +1,11 @@
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.exe
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.deps.json
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.runtimeconfig.json
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.runtimeconfig.dev.json
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.dll
+c:\Teste2\AppNumeros\AppNumeros\bin\Debug\netcoreapp3.1\AppNumeros.pdb
+c:\Teste2\AppNumeros\AppNumeros\obj\Debug\netcoreapp3.1\AppNumeros.csprojAssemblyReference.cache
+c:\Teste2\AppNumeros\AppNumeros\obj\Debug\netcoreapp3.1\AppNumeros.AssemblyInfoInputs.cache
+c:\Teste2\AppNumeros\AppNumeros\obj\Debug\netcoreapp3.1\AppNumeros.AssemblyInfo.cs
+c:\Teste2\AppNumeros\AppNumeros\obj\Debug\netcoreapp3.1\AppNumeros.dll
+c:\Teste2\AppNumeros\AppNumeros\obj\Debug\netcoreapp3.1\AppNumeros.pdb
